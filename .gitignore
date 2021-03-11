@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.toptal.com/developers/gitignore/api/eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse
@@ -69,6 +70,8 @@ local.properties
 .sts4-cache/
 
   
+=======
+>>>>>>> 4bb60b4494e1d56007dd1e2269d80fc2ecf60043
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -78,6 +81,11 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+<<<<<<< HEAD
 
 .mvn/wrapper/maven-wrapper.jar
 
+=======
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+>>>>>>> 4bb60b4494e1d56007dd1e2269d80fc2ecf60043
